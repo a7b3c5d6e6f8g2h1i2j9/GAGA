@@ -31,6 +31,7 @@ const idTen_SasiEttan_TotalFund = 100;
 const idEleven_Krishnaja_TotalFund = 100;
 const idTwelve_Vishnuja_TotalFund = 100;
 const idThirteen_Malu_TotalFund = 100;
+const idFourteen_Akshay_TotalFund = 0;
 
 
 
@@ -287,4 +288,23 @@ if (idThirteen_Malu_TotalFund === totalAmount) {
 } else {
   idThirteenShort.textContent = `${idThirteenShortCalc}/-`;
   idThirteenShort.style.color = 'red';
+}
+
+
+// ID FOURTEEN 14 AKSHAY
+const idFourteenName = document.getElementById('idFourteenName');
+const idFourteenShort = document.getElementById('idFourteenShort'); 
+
+idFourteenName.textContent = 'Akshay';
+
+const idFourteenShortCalc = totalAmount - idFourteen_Akshay_TotalFund;//SHORTAGE CHECK CALCULATION.
+
+if (idFourteen_Akshay_TotalFund === totalAmount) {
+
+  idFourteenShort.textContent = `${idFourteen_Akshay_TotalFund}/- Full Paid`;
+  idFourteenShort.style.color = 'darkcyan';
+
+} else {
+  idFourteenShort.textContent = `${idFourteenShortCalc}/-`;
+  idFourteenShort.style.color = 'red';
 }

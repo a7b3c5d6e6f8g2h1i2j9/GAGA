@@ -30,6 +30,7 @@ const idTen_SasiEttan_WeekFund = 0;
 const idEleven_Krishnaja_WeekFund = 0; 
 const idTwelve_Vishnuja_WeekFund = 0; 
 const idThirteen_Malu_WeekFund = 0; 
+const idFourteen_Akshay_WeekFund = 0; 
 
 
 
@@ -214,3 +215,16 @@ if(idThirteen_Malu_WeekFund) {
   idThirteenFund.style.color = 'red';
 }
 
+
+// ID  FOURTEEN 14 AKSHAY 
+const idFourteenName = document.getElementById('idFourteenName');
+const idFourteenFund = document.getElementById('idFourteenFund');
+
+idFourteenName.textContent = 'Akshay';
+
+if(idFourteen_Akshay_WeekFund) {
+  idFourteenFund.textContent = `${idFourteen_Akshay_WeekFund}`;
+} else {
+  idFourteenFund.textContent = 'Not Paid';
+  idFourteenFund.style.color = 'red';
+}
