@@ -229,11 +229,11 @@ if (idTen_SasiEttan_TotalFund === totalAmount) {
 
 
 
-// ID ELEVEN 11 KRISHNAJA
+// ID ELEVEN 11 AKSHAY
 const idElevenName = document.getElementById('idElevenName');
 const idElevenShort = document.getElementById('idElevenShort'); 
 
-idElevenName.textContent = 'Ashay';
+idElevenName.textContent = 'Akshay';
 
 const idElevenShortCalc = totalAmount - idEleven_Ashay_TotalFund;//SHORTAGE CHECK CALCULATION.
 

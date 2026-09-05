@@ -171,7 +171,7 @@ if(idTen_SasiEttan_WeekFund) {
 }
 
 
-// ID ELEVEN 11 KRISHNAJA
+// ID ELEVEN 11 AKSHAY
 const idElevenName = document.getElementById('idElevenName');
 const idElevenFund = document.getElementById('idElevenFund');
 
