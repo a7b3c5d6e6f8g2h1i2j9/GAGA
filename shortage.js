@@ -28,10 +28,7 @@ const idSeven_Nikhil_TotalFund = 0;
 const idEight_Jamshika_TotalFund = 1200;
 const idNine_Amika_TotalFund = 0;
 const idTen_SasiEttan_TotalFund = 100;
-const idEleven_Krishnaja_TotalFund = 100;
-const idTwelve_Vishnuja_TotalFund = 100;
-const idThirteen_Malu_TotalFund = 100;
-const idFourteen_Akshay_TotalFund = 0;
+const idEleven_Ashay_TotalFund = 0;
 
 
 
@@ -236,13 +233,13 @@ if (idTen_SasiEttan_TotalFund === totalAmount) {
 const idElevenName = document.getElementById('idElevenName');
 const idElevenShort = document.getElementById('idElevenShort'); 
 
-idElevenName.textContent = 'Krishnaja';
+idElevenName.textContent = 'Ashay';
 
-const idElevenShortCalc = totalAmount - idEleven_Krishnaja_TotalFund;//SHORTAGE CHECK CALCULATION.
+const idElevenShortCalc = totalAmount - idEleven_Ashay_TotalFund;//SHORTAGE CHECK CALCULATION.
 
-if (idEleven_Krishnaja_TotalFund === totalAmount) {
+if (idEleven_Ashay_TotalFund === totalAmount) {
 
-  idElevenShort.textContent = `${idEleven_Krishnaja_TotalFund}/- Full Paid`;
+  idElevenShort.textContent = `${idEleven_Ashay_TotalFund}/- Full Paid`;
   idElevenShort.style.color = 'darkcyan';
 
 } else {
@@ -250,61 +247,3 @@ if (idEleven_Krishnaja_TotalFund === totalAmount) {
   idElevenShort.style.color = 'red';
 }
 
-
-
-// ID TWELVE 12 VISHNUJA
-const idTwelveName = document.getElementById('idTwelveName');
-const idTwelveShort = document.getElementById('idTwelveShort'); 
-
-idTwelveName.textContent = 'Vishnuja';
-
-const idTwelveShortCalc = totalAmount - idTwelve_Vishnuja_TotalFund;//SHORTAGE CHECK CALCULATION.
-
-if (idTwelve_Vishnuja_TotalFund === totalAmount) {
-
-  idTwelveShort.textContent = `${idTwelve_Vishnuja_TotalFund}/- Full Paid`;
-  idTwelveShort.style.color = 'darkcyan';
-
-} else {
-  idTwelveShort.textContent = `${idTwelveShortCalc}/-`;
-  idTwelveShort.style.color = 'red';
-}
-
-
-
-// ID THIRTEEN 13 MALU
-const idThirteenName = document.getElementById('idThirteenName');
-const idThirteenShort = document.getElementById('idThirteenShort'); 
-
-idThirteenName.textContent = 'Malu';
-
-const idThirteenShortCalc = totalAmount - idThirteen_Malu_TotalFund;//SHORTAGE CHECK CALCULATION.
-
-if (idThirteen_Malu_TotalFund === totalAmount) {
-
-  idThirteenShort.textContent = `${idThirteen_Malu_TotalFund}/- Full Paid`;
-  idThirteenShort.style.color = 'darkcyan';
-
-} else {
-  idThirteenShort.textContent = `${idThirteenShortCalc}/-`;
-  idThirteenShort.style.color = 'red';
-}
-
-
-// ID FOURTEEN 14 AKSHAY
-const idFourteenName = document.getElementById('idFourteenName');
-const idFourteenShort = document.getElementById('idFourteenShort'); 
-
-idFourteenName.textContent = 'Akshay';
-
-const idFourteenShortCalc = totalAmount - idFourteen_Akshay_TotalFund;//SHORTAGE CHECK CALCULATION.
-
-if (idFourteen_Akshay_TotalFund === totalAmount) {
-
-  idFourteenShort.textContent = `${idFourteen_Akshay_TotalFund}/- Full Paid`;
-  idFourteenShort.style.color = 'darkcyan';
-
-} else {
-  idFourteenShort.textContent = `${idFourteenShortCalc}/-`;
-  idFourteenShort.style.color = 'red';
-}
