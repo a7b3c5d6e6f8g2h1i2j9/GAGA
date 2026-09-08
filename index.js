@@ -2,7 +2,7 @@
 
 // ACCOUNT TOTAL AMOUNT DISPLAY
 
-let accountAmount = '2,100/-';
+let accountAmount = '2,600/-';
 
 const accountAmountDisplay = document.getElementById('accountAmountDisplay');
 
@@ -20,7 +20,7 @@ highlightDateDisplay.style.color = 'var(--highlighttextcolor)';
 const idOne_Adithyan_WeekFund = 100; 
 const idTwo_Jishnu_WeekFund = 100; 
 const idThree_Nishanth_WeekFund = 0; 
-const idFour_Anirudhan_WeekFund = 0; 
+const idFour_Anirudhan_WeekFund = 100; 
 const idFive_Vasu_WeekFund = 100; 
 const idSix_Midhun_WeekFund = 100; 
 const idSeven_Nkhil_WeekFund = 0; 
