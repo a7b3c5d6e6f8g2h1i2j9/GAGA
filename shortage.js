@@ -45,10 +45,11 @@ if (idOne_Adithyan_TotalFund === totalAmount) {
 
   idOneShort.textContent = `${idOne_Adithyan_TotalFund}/- Full Paid`;
   idOneShort.style.color = 'darkcyan';
-
+  idOneShort.style.fontWeight = 'bold';
 } else {
   idOneShort.textContent = `${idOneShortCalc}/-`;
   idOneShort.style.color = 'red';
+  idOneShort.style.fontWeight = 'bold';
 }
 
 
@@ -65,10 +66,12 @@ if (idTwo_Jishnu_TotalFund === totalAmount) {
 
   idTwoShort.textContent = `${idTwo_Jishnu_TotalFund}/- Full Paid`;
   idTwoShort.style.color = 'darkcyan';
+  idTwoShort.style.fontWeight = 'bold';
 
 } else {
   idTwoShort.textContent = `${idTwoShortCalc}/-`;
   idTwoShort.style.color = 'red';
+  idTwoShort.style.fontWeight = 'bold';
 }
 
 
@@ -84,10 +87,12 @@ if (idThree_Nishanth_TotalFund === totalAmount) {
 
   idThreeShort.textContent = `${idThree_Nishanth_TotalFund}/- Full Paid`;
   idThreeShort.style.color = 'darkcyan';
+  idThreeShort.style.fontWeight = 'bold';
 
 } else {
   idThreeShort.textContent = `${idThreeShortCalc}/-`;
   idThreeShort.style.color = 'red';
+  idThreeShort.style.fontWeight = 'bold';
 }
 
 
@@ -103,10 +108,12 @@ if (idFour_Anirudhan_TotalFund === totalAmount) {
 
   idFourShort.textContent = `${idFour_Anirudhan_TotalFund}/- Full Paid`;
   idFourShort.style.color = 'darkcyan';
+  idFourShort.style.fontWeight = 'bold';
 
 } else {
   idFourShort.textContent = `${idFourShortCalc}/-`;
   idFourShort.style.color = 'red';
+  idFourShort.style.fontWeight = 'bold';
 }
 
 
@@ -122,10 +129,12 @@ if (idFive_Vasu_TotalFund === totalAmount) {
 
   idFiveShort.textContent = `${idFive_Vasu_TotalFund}/- Full Paid`;
   idFiveShort.style.color = 'darkcyan';
+  idFiveShort.style.fontWeight = 'bold';
 
 } else {
   idFiveShort.textContent = `${idFiveShortCalc}/-`;
   idFiveShort.style.color = 'red';
+  idFiveShort.style.fontWeight = 'bold';
 }
 
 
@@ -141,10 +150,12 @@ if (idSix_Midhun_TotalFund === totalAmount) {
 
   idSixShort.textContent = `${idSix_Midhun_TotalFund}/- Full Paid`;
   idSixShort.style.color = 'darkcyan';
+  idSixShort.style.fontWeight = 'bold';
 
 } else {
   idSixShort.textContent = `${idSixShortCalc}/-`;
   idSixShort.style.color = 'red';
+  idSixShort.style.fontWeight = 'bold';
 }
 
 
@@ -161,10 +172,12 @@ if (idSeven_Nikhil_TotalFund === totalAmount) {
 
   idSevenShort.textContent = `${idSeven_Nikhil_TotalFund}/- Full Paid`;
   idSevenShort.style.color = 'darkcyan';
+  idSevenShort.style.fontWeight = 'bold';
 
 } else {
   idSevenShort.textContent = `${idSevenShortCalc}/-`;
   idSevenShort.style.color = 'red';
+  idSevenShort.style.fontWeight = 'bold';
 }
 
 
@@ -181,10 +194,12 @@ if (idEight_Jamshika_TotalFund === totalAmount) {
 
   idEightShort.textContent = `${idEight_Jamshika_TotalFund}/- Full Paid`;
   idEightShort.style.color = 'darkcyan';
+  idEightShort.style.fontWeight = 'bold';
 
 } else {
   idEightShort.textContent = `${idEightShortCalc}/-`;
   idEightShort.style.color = 'red';
+  idEightShort.style.fontWeight = 'bold';
 }
 
 
@@ -201,10 +216,12 @@ if (idNine_Amika_TotalFund === totalAmount) {
 
   idNineShort.textContent = `${idNine_Amika_TotalFund}/- Full Paid`;
   idNineShort.style.color = 'darkcyan';
+  idNineShort.style.fontWeight = 'bold';
 
 } else {
   idNineShort.textContent = `${idNineShortCalc}/-`;
   idNineShort.style.color = 'red';
+  idNineShort.style.fontWeight = 'bold';
 }
 
 
@@ -221,10 +238,12 @@ if (idTen_SasiEttan_TotalFund === totalAmount) {
 
   idTenShort.textContent = `${idTen_SasiEttan_TotalFund}/- Full Paid`;
   idTenShort.style.color = 'darkcyan';
+  idTenShort.style.fontWeight = 'bold';
 
 } else {
   idTenShort.textContent = `${idTenShortCalc}/-`;
   idTenShort.style.color = 'red';
+  idTenShort.style.fontWeight = 'bold';
 }
 
 
@@ -241,9 +260,11 @@ if (idEleven_Ashay_TotalFund === totalAmount) {
 
   idElevenShort.textContent = `${idEleven_Ashay_TotalFund}/- Full Paid`;
   idElevenShort.style.color = 'darkcyan';
+  idElevenShort.style.fontWeight = 'bold';
 
 } else {
   idElevenShort.textContent = `${idElevenShortCalc}/-`;
   idElevenShort.style.color = 'red';
+  idElevenShort.style.fontWeight = 'bold';
 }
 

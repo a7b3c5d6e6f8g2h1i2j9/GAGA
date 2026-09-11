@@ -39,9 +39,11 @@ idOneName.textContent = 'Adithyan';
 
 if(idOne_Adithyan_WeekFund) {
   idOneFund.textContent = `${idOne_Adithyan_WeekFund}/-`;
+  idOneFund.style.fontWeight = 'bold';
 } else {
   idOneFund.textContent = 'Not Paid';
   idOneFund.style.color = 'red';
+  idOneFund.style.fontWeight = 'bold';
 }
 
 
@@ -53,9 +55,11 @@ idTwoName.textContent = 'Jishnu';
 
 if(idTwo_Jishnu_WeekFund) {
   idTwoFund.textContent = `${idTwo_Jishnu_WeekFund}/-`;
+  idTwoFund.style.fontWeight = 'bold';
 } else {
   idTwoFund.textContent = 'Not Paid';
   idTwoFund.style.color = 'red';
+  idTwoFund.style.fontWeight = 'bold';
 }
 
 
@@ -67,9 +71,11 @@ idThreeName.textContent = 'Nishanth';
 
 if(idThree_Nishanth_WeekFund) {
   idThreeFund.textContent = `${idThree_Nishanth_WeekFund}/-`;
+  idThreeFund.style.fontWeight = 'bold';
 } else {
   idThreeFund.textContent = 'Not Paid';
   idThreeFund.style.color = 'red';
+  idThreeFund.style.fontWeight = 'bold';
 }
 
 
@@ -81,9 +87,11 @@ idFourName.textContent = 'Anirudhan';
 
 if(idFour_Anirudhan_WeekFund) {
   idFourFund.textContent = `${idFour_Anirudhan_WeekFund}/-`;
+  idFourFund.style.fontWeight = 'bold';
 } else {
   idFourFund.textContent = 'Not Paid';
   idFourFund.style.color = 'red';
+  idFourFund.style.fontWeight = 'bold';
 }
 
 
@@ -95,9 +103,11 @@ idFiveName.textContent = 'vasu';
 
 if(idFive_Vasu_WeekFund) {
   idFiveFund.textContent = `${idFive_Vasu_WeekFund}/-`;
+  idFiveFund.style.fontWeight = 'bold';
 } else {
   idFiveFund.textContent = 'Not Paid';
   idFiveFund.style.color = 'red';
+  idFiveFund.style.fontWeight = 'bold';
 }
 
 
@@ -109,9 +119,11 @@ idSixName.textContent = 'Midhun';
 
 if(idSix_Midhun_WeekFund) {
   idSixFund.textContent = `${idSix_Midhun_WeekFund}/-`;
+  idSixFund.style.fontWeight = 'bold';
 } else {
   idSixFund.textContent = 'Not Paid';
   idSixFund.style.color = 'red';
+  idSixFund.style.fontWeight = 'bold';
 }
 
 
@@ -123,9 +135,11 @@ idSevenName.textContent = 'Nikhil';
 
 if(idSeven_Nkhil_WeekFund) {
   idSevenFund.textContent = `${idSeven_Nkhil_WeekFund}/-`;
+  idSevenFund.style.fontWeight = 'bold';
 } else {
   idSevenFund.textContent = 'Not Paid';
   idSevenFund.style.color = 'red';
+  idSevenFund.style.fontWeight = 'bold';
 }
 
 
@@ -137,9 +151,11 @@ idEightName.textContent = 'Jamshika';
 
 if(idEight_Jamshika_WeekFund) {
   idEightFund.textContent = `${idEight_Jamshika_WeekFund}/-`;
+  idEightFund.style.fontWeight = 'bold';
 } else {
   idEightFund.textContent = 'Not Paid';
   idEightFund.style.color = 'red';
+  idEightFund.style.fontWeight = 'bold';
 }
 
 
@@ -151,9 +167,11 @@ idNineName.textContent = 'Amika';
 
 if(idNine_Amika_WeekFund) {
   idNineFund.textContent = `${idNine_Amika_WeekFund}/-`;
+  idNineFund.style.fontWeight = 'bold';
 } else {
   idNineFund.textContent = 'Not Paid';
   idNineFund.style.color = 'red';
+  idNineFund.style.fontWeight = 'bold';
 }
 
 
@@ -165,9 +183,11 @@ idTenName.textContent = 'Sasi Ettan';
 
 if(idTen_SasiEttan_WeekFund) {
   idTenFund.textContent = `${idTen_SasiEttan_WeekFund}/-`;
+  idTenFund.style.fontWeight = 'bold';
 } else {
   idTenFund.textContent = 'Not Paid';
   idTenFund.style.color = 'red';
+  idTenFund.style.fontWeight = 'bold';
 }
 
 
@@ -179,9 +199,11 @@ idElevenName.textContent = 'Akshay';
 
 if(idEleven_Ashay_WeekFund) {
   idElevenFund.textContent = `${idEleven_Ashay_WeekFund}/-`;
+  idElevenFund.style.fontWeight = 'bold';
 } else {
   idElevenFund.textContent = 'Not Paid';
   idElevenFund.style.color = 'red';
+  idElevenFund.style.fontWeight = 'bold';
 }
 
 
