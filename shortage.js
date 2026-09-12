@@ -2,7 +2,7 @@
 
 //SHORTAGE PAGE
 
-const totalAmount =  1800; //TYPE HERE THE TOTAL FUND
+const totalAmount =  1900; //TYPE HERE THE TOTAL FUND
 
 const totalAmountDisplay = document.getElementById('totalAmountDisplay');
  

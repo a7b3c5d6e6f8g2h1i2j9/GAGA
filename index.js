@@ -12,17 +12,17 @@ accountAmountDisplay.textContent = `Account : ₹${accountAmount}`;
 //HIGHLIGHT DATE DISPLAY
 const highlightDateDisplay = document.getElementById('highlightDateDisplay');
 
-highlightDateDisplay.textContent = `Sep : 5/9/26 - Saturday Fund`;
+highlightDateDisplay.textContent = `Sep : 12/9/26 - Saturday Fund`;
 highlightDateDisplay.style.color = 'var(--highlighttextcolor)';
 
 
 
-const idOne_Adithyan_WeekFund = 100; 
-const idTwo_Jishnu_WeekFund = 100; 
+const idOne_Adithyan_WeekFund = 0; 
+const idTwo_Jishnu_WeekFund = 0; 
 const idThree_Nishanth_WeekFund = 0; 
-const idFour_Anirudhan_WeekFund = 100; 
-const idFive_Vasu_WeekFund = 100; 
-const idSix_Midhun_WeekFund = 100; 
+const idFour_Anirudhan_WeekFund = 0; 
+const idFive_Vasu_WeekFund = 0; 
+const idSix_Midhun_WeekFund = 0; 
 const idSeven_Nkhil_WeekFund = 0; 
 const idEight_Jamshika_WeekFund = 0; 
 const idNine_Amika_WeekFund = 0; 
