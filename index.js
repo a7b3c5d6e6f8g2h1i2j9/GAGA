@@ -17,12 +17,12 @@ highlightDateDisplay.style.color = 'var(--highlighttextcolor)';
 
 
 
-const idOne_Adithyan_WeekFund = 0; 
+const idOne_Adithyan_WeekFund = 100; 
 const idTwo_Jishnu_WeekFund = 0; 
 const idThree_Nishanth_WeekFund = 0; 
 const idFour_Anirudhan_WeekFund = 100; 
 const idFive_Vasu_WeekFund = 0; 
-const idSix_Midhun_WeekFund = 0; 
+const idSix_Midhun_WeekFund = 100; 
 const idSeven_Nkhil_WeekFund = 0; 
 const idEight_Jamshika_WeekFund = 0; 
 const idNine_Amika_WeekFund = 0; 

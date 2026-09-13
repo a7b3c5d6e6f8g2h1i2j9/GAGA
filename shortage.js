@@ -18,12 +18,12 @@ highlightTextDisplay.style.color = 'var(--highlighttextcolor)';
 
 
 //TOTAL FUND THAT THE USERS PAY
-const idOne_Adithyan_TotalFund = 300;
+const idOne_Adithyan_TotalFund = 400;
 const idTwo_Jishnu_TotalFund = 100;
 const idThree_Nishanth_TotalFund = 200;
-const idFour_Anirudhan_TotalFund = 200;
+const idFour_Anirudhan_TotalFund = 300;
 const idFive_Vasu_TotalFund = 100;
-const idSix_Midhun_TotalFund = 100;
+const idSix_Midhun_TotalFund = 200;
 const idSeven_Nikhil_TotalFund = 0;
 const idEight_Jamshika_TotalFund = 1200;
 const idNine_Amika_TotalFund = 0;
