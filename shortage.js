@@ -7,7 +7,7 @@ const totalAmount =  1900; //TYPE HERE THE TOTAL FUND
 const totalAmountDisplay = document.getElementById('totalAmountDisplay');
  
 
-totalAmountDisplay.textContent = ` Total Amount : ${totalAmount}/-`;
+totalAmountDisplay.textContent = ` Total : ${totalAmount}/-`;
 
 
 //HIGHLIGHT TEXT DISPLAY

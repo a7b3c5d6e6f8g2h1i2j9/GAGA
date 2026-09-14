@@ -66,12 +66,61 @@ header {
   background-color: white;
 }
 
-.logo {
+/* BALENCE CARD */
+.balence-card-container {
+  display: flex;
+  justify-content: center;
+  margin: .5rem;
+}
+.balance-card {
+  width: 100%;
+  padding: 1.2rem;
+  border-radius: 10px;
+  margin-bottom: .5rem;
+  background: linear-gradient(
+    135deg,
+    #0469ee 0%,
+    #0e74f8 55%,
+    #0771fd 100%
+    );
+    color: white;
+    box-shadow: 0 12px 30px rgba(2, 81, 149, 0.25);
+    overflow: hidden;
+    }
+    
+    .account-title {
+      font-size: 1rem;
+      opacity: 0.8;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .balance-label {
+      font-size: 0.8rem;
+      opacity: 0.75;
+      margin-bottom: 6px;
+    }
+
+    .balance {
+       font-size: 2rem;
+      font-size: clamp(1.5rem, 5vw, 2rem);
+      text-align: center;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+
+    .account-number {
+      margin-top: 24px;
+      font-size: 13px;
+      opacity: 0.75;
+      letter-spacing: 2px;
+    }
+/* .logo {
   text-align: center;
 }
 .logo img {
   width: 200px;
-}
+} */
 
 .container {
   width: 95%;
