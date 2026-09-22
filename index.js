@@ -2,7 +2,7 @@
 
 // ACCOUNT TOTAL AMOUNT DISPLAY
 
-let accountAmount = '3,500/-';
+let accountAmount = '4,000/-';
 
 const accountAmountDisplay = document.getElementById('accountAmountDisplay');
 
