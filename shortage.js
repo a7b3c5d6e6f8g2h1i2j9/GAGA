@@ -2,7 +2,7 @@
 
 //SHORTAGE PAGE
 
-const totalAmount =  2000; //TYPE HERE THE TOTAL FUND
+const totalAmount =  2100; //TYPE HERE THE TOTAL FUND
 
 const totalAmountDisplay = document.getElementById('totalAmountDisplay');
  
@@ -18,12 +18,12 @@ highlightTextDisplay.style.color = 'var(--highlighttextcolor)';
 
 
 //TOTAL FUND THAT THE USERS PAY
-const idOne_Adithyan_TotalFund = 500;
+const idOne_Adithyan_TotalFund = 600;
 const idTwo_Jishnu_TotalFund = 200;
 const idThree_Nishanth_TotalFund = 700;
-const idFour_Anirudhan_TotalFund = 300;
+const idFour_Anirudhan_TotalFund = 400;
 const idFive_Vasu_TotalFund = 100;
-const idSix_Midhun_TotalFund = 300;
+const idSix_Midhun_TotalFund = 400;
 const idSeven_Nikhil_TotalFund = 0;
 const idEight_Jamshika_TotalFund = 1200;
 const idNine_Amika_TotalFund = 0;
