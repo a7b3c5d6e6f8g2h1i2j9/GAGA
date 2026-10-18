@@ -2,7 +2,7 @@
 
 // ACCOUNT TOTAL AMOUNT DISPLAY
 
-let accountAmount = '4,650/-';
+let accountAmount = '5,450/-';
 
 const accountAmountDisplay = document.getElementById('accountAmountDisplay');
 
@@ -12,7 +12,7 @@ accountAmountDisplay.textContent = `Account : ₹${accountAmount}`;
 //HIGHLIGHT DATE DISPLAY
 const highlightDateDisplay = document.getElementById('highlightDateDisplay');
 
-highlightDateDisplay.textContent = `Sep : 31/9/26 - Saturday Fund`;
+highlightDateDisplay.textContent = `Sep : 17/10/26 - Saturday Fund`;
 highlightDateDisplay.style.color = 'var(--highlighttextcolor)';
 
 
@@ -24,10 +24,10 @@ const idFour_Anirudhan_WeekFund = 0;
 const idFive_Vasu_WeekFund = 0; 
 const idSix_Midhun_WeekFund = 100; 
 const idSeven_Nkhil_WeekFund = 0; 
-const idEight_Jamshika_WeekFund = 0; 
+const idEight_Jamshika_WeekFund = 500; 
 const idNine_Amika_WeekFund = 0; 
 const idTen_SasiEttan_WeekFund = 0; 
-const idEleven_Ashay_WeekFund = 250; 
+const idEleven_Ashay_WeekFund = 0; 
 
 
 

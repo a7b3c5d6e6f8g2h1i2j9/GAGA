@@ -2,7 +2,7 @@
 
 //SHORTAGE PAGE
 
-const totalAmount =  2200; //TYPE HERE THE TOTAL FUND
+const totalAmount =  2400; //TYPE HERE THE TOTAL FUND
 
 const totalAmountDisplay = document.getElementById('totalAmountDisplay');
  
@@ -23,9 +23,9 @@ const idTwo_Jishnu_TotalFund = 200;
 const idThree_Nishanth_TotalFund = 700;
 const idFour_Anirudhan_TotalFund = 400;
 const idFive_Vasu_TotalFund = 100;
-const idSix_Midhun_TotalFund = 500;
+const idSix_Midhun_TotalFund = 700;
 const idSeven_Nikhil_TotalFund = 0;
-const idEight_Jamshika_TotalFund = 1200;
+const idEight_Jamshika_TotalFund = 1700;
 const idNine_Amika_TotalFund = 0;
 const idTen_SasiEttan_TotalFund = 100;
 const idEleven_Ashay_TotalFund = 550;
