@@ -2,8 +2,8 @@
 :root {
   --bodybackgroundcolor: white;
   --textcolor: #001;
-  --themecolor: #1877F2;
-  --highlighttextcolor: darkorange;
+  /* --themecolor: #1877F2; */
+  --highlighttextcolor: rgb(246, 99, 7);
 }
 
 
@@ -79,9 +79,9 @@ header {
   margin-bottom: .5rem;
   background: linear-gradient(
     135deg,
-    #0469ee 0%,
-    #0e74f8 55%,
-    #0771fd 100%
+    #03045F 0%,
+    #023E8A 55%,
+    #0077B6 100%
     );
     color: white;
     box-shadow: 0 12px 30px rgba(2, 81, 149, 0.25);
@@ -171,7 +171,7 @@ header {
     }
     
     th {
-      background-color: var(--themecolor);
+      background-color: #023E8A;
       color: white;
   }
 
@@ -191,11 +191,11 @@ footer {
   background-color: #001;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
+  position: relative;
 }
 
 footer img {
-  width: 20rem;
-  width: clamp(20rem, 3vw, 60rem);
+  width: 15rem;
+  width: clamp(15rem, 3vw, 60rem);
 }
-
 
